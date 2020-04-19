@@ -1,4 +1,4 @@
-Undefined:
+//Undefined:
 let age;
 console.log(age);
 
