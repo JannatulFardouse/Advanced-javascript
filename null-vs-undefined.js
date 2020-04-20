@@ -25,3 +25,10 @@ console.log(fun);
 
 let ages =[11, 12, 45, 13];
 console.log(ages[11]);
+
+if('false'){
+    console.log("false")
+}
+else{
+    console.log("not false")
+}
