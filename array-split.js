@@ -9,5 +9,10 @@ const nums = [2, 4, 6, 8, 10, 12, 14, 15, 16, 17]
 
 
 const replace = nums.splice(2, 3, 7, 9, 11);
-console.log(replace);
-console.log(nums);
+// console.log(replace);
+// console.log(nums);
+
+// const together = nums.join("");
+// const together = nums.join(",");
+const together = nums.join("/ ");
+console.log(together);
